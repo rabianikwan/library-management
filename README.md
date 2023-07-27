@@ -1,6 +1,7 @@
 # Book Management Store
 A simple flask app to manage users along with mysql database
 
+![ss2.JPG](ss%2Fss2.JPG)
 
 ## Installation
 
